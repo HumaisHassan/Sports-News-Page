@@ -73,11 +73,51 @@ body{
 }
 
 #dc4{
+	color: white;
+	font-family: Noori-Nastaleeq;
+	font-size: 25px;
+	text-align: center;
+	margin-top: 30px;
+	display: flex;
+	flex-direction: row;
 	background-color: black;
 	height: 70px;
+
 }
 
-	
+#p4{
+	color: white;
+	padding-top: 5px;
+}
+
+#link{
+	color: white;
+}
+
+#d8{
+	margin-right: 550px;
+	margin-left: -10px;
+
+}
+
+#d7{
+	margin-right: 480px;
+
+}
+
+#d6{
+	margin-left: 10px;
+}
+
+#arrow1{
+	height: 65px;
+	width: 150;
+}
+
+#arrow2{
+	height: 65px;
+	width: 150;
+}
 
 
 @font-face {
