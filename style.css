@@ -87,7 +87,7 @@ body{
 
 #p4{
 	color: white;
-	padding-top: 2px;
+	padding: ;
 }
 
 #link{
@@ -101,12 +101,14 @@ body{
 }
 
 #d7{
-	margin-right: 480px;
+	margin-right: 490px;
+	margin-left: 20px;
+	margin-top:-12px ;
 
 }
 
 #d6{
-	margin-left: 1300px;
+	margin-left: 140px;
 }
 
 #arrow1{
@@ -118,7 +120,6 @@ body{
 	height: 65px;
 	width: 150;
 }
-
 
 @font-face {
 	font-family: Noori-Nastaleeq;
