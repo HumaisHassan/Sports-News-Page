@@ -9,43 +9,43 @@ body{
 }
 
 #img1{
-	height: 80px;
-	width: 360px;
-	margin: 5px 20px 5px 20px;
+	height: 5.041vw;
+	width: 22.684vw;
+	margin: 0.315vw 1.26vw 0.315vw 1.26vw;
 
 }
 
 #img2{
-	height: 80px;
-	width: 50px;
-	margin: 5px 1100px 5px 20px;
+	height: 5.041vw;
+	width: 3.151vw;
+	margin: 0.315vw 69.313vw 0.315vw 1.26vw;
 }
 
 #d3{
 	font-family: Aleem Urdu Unicode;
-	border: solid grey 0.5px;
+	border: solid grey 0.032vw;
 	text-align: center;
 }
 
 #d4{
-	margin: 50px 300px 30px 10px;
+	margin: 3.151vw 18.904vw 1.89vw 0.63vw;
 	font-family: Noori-Nastaleeq;
-	width: 600px;
+	width: 37.807vw;
 }
 
 #d4h{
-	font-size: 50px;
+	font-size: 3.151vw;
 }
 
 #p1{
 	font-family: Aleem Urdu Unicode;
-	font-size: 15px;
-	margin-top: -20px;
+	font-size: 0.945vw;
+	margin-top: -1.26vw;
 }
 
 #p2{
 	font-family: Aleem Urdu Unicode;
-	font-size: 20px;
+	font-size: 1.26vw;
 }
 
 #dc3{
@@ -55,33 +55,33 @@ body{
 }
 
 #img3{
-	width: 600px;
+	width: 37.807vw;
 }
 
 #d5{
-	margin-top: 60px;
-	margin-right: 30px;
-	width: 300px;
+	margin-top: 3.781vw;
+	margin-right: 1.89vw;
+	width: 18.904vw;
 }
 
 #p3{
-	font-size: 22px;
+	font-size: 1.386vw;
 }
 
 #img4{
-	width: 250px;
+	width: 15.753vw;
 }
 
 #dc4{
 	color: white;
 	font-family: Noori-Nastaleeq;
-	font-size: 25px;
+	font-size: 1.575vw;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 1.89;
 	display: flex;
 	flex-direction: row;
 	background-color: black;
-	height: 70px;
+	height: 4.411vw;
 
 }
 
@@ -95,30 +95,30 @@ body{
 }
 
 #d8{
-	margin-right: 550px;
-	margin-left: -10px;
+	margin-right: 34.657vw;
+	margin-left: -0.63vw;
 
 }
 
 #d7{
-	margin-right: 490px;
-	margin-left: 20px;
-	margin-top:-12px ;
+	margin-right: 30.876vw;
+	margin-left: 1.26vw;
+	margin-top:-0.756vw;
 
 }
 
 #d6{
-	margin-left: 140px;
+	margin-left: 8.822vw;
 }
 
 #arrow1{
-	height: 65px;
-	width: 150;
+	height: 4.096vw;
+	width: 9.452vw;
 }
 
 #arrow2{
-	height: 65px;
-	width: 150;
+	height: 4.096vw;
+	width: 9.452vw;
 }
 
 #hd1{
