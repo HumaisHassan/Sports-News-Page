@@ -121,6 +121,14 @@ body{
 	width: 150;
 }
 
+#hd1{
+	font-family: Noori-Nastaleeq;
+}
+
+#hd2{
+	font-family: Noori-Nastaleeq;
+}
+
 @font-face {
 	font-family: Noori-Nastaleeq;
 	src: url(Noori-Nastaleeq.ttf); 
