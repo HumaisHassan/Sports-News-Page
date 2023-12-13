@@ -1,0 +1,87 @@
+body{
+	
+}
+
+#dc{
+	display: flex;
+	flex-direction: row;
+	background-color: black;
+}
+
+#img1{
+	height: 80px;
+	width: 360px;
+	margin: 5px 20px 5px 20px;
+
+}
+
+#img2{
+	height: 80px;
+	width: 50px;
+	margin: 5px 1100px 5px 20px;
+}
+
+#d3{
+	font-family: Aleem Urdu Unicode;
+	border: solid grey 0.5px;
+	text-align: center;
+}
+
+#d4{
+	margin: 50px 300px 30px 10px;
+	font-family: Noori-Nastaleeq;
+	width: 600px;
+}
+
+#d4h{
+	font-size: 50px;
+}
+
+#p1{
+	font-family: Aleem Urdu Unicode;
+	font-size: 15px;
+	margin-top: -20px;
+}
+
+#p2{
+	font-family: Aleem Urdu Unicode;
+	font-size: 20px;
+}
+
+#dc3{
+	display: flex;
+	flex-direction: row;
+
+}
+
+#img3{
+	width: 600px;
+}
+
+#d5{
+	margin-top: 60px;
+	margin-right: 30px;
+	width: 300px;
+}
+
+#p3{
+	font-size: 22px;
+}
+
+#img4{
+	width: 250px;
+}
+
+
+	
+
+
+@font-face {
+	font-family: Noori-Nastaleeq;
+	src: url(Noori-Nastaleeq.ttf); 
+}
+
+@font-face {
+	font-family: Aleem Urdu Unicode;
+	src: url(Aleem Urdu Unicode.ttf); 
+}
